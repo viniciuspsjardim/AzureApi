@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cpfAPI": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7275",
+      "launchBrowser": false
+    }
+  }
+}
